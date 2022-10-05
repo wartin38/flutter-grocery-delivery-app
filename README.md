@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_flutter_store
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-grocery-delivery-app
+Flutter Grocery Delivery App
+>>>>>>> 66022425414faa1914fa53004b3b5abda04e0d3b
