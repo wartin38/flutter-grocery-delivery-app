@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Aguacate",
+      "image": "https://cdn.pixabay.com/photo/2016/03/05/19/03/appetite-1238257_960_720.jpg",
+      "category": "verduras",
+      "price": 80.00,
+      "offerPrice": 75.00,
+      "isOffer": false,
+      "isPiece": false
+    },
+    {
+      "id": "2",
+      "name": "Apio",
+      "image": "https://cdn.pixabay.com/photo/2017/02/21/08/08/vegetables-2085017_960_720.jpg",
+      "category": "verduras",
+      "price": 20.00,
+      "offerPrice": 17.00,
+      "isOffer": false,
+      "isPiece": true
+    },
+    {
+      "id": "3",
+      "name": "Brócoli",
+      "image": "https://cdn.pixabay.com/photo/2016/03/05/19/02/appetite-1238251_960_720.jpg",
+      "category": "verduras",
+      "price": 15.00,
+      "offerPrice": 12.00,
+      "isOffer": false,
+      "isPiece": true
+    },
+    {
+      "id": "4",
+      "name": "Ciruela",
+      "image": "https://cdn.pixabay.com/photo/2016/03/05/21/47/berry-1239092_960_720.jpg",
+      "category": "frutas",
+      "price": 22.00,
+      "offerPrice": 19.00,
+      "isOffer": true,
+      "isPiece": false
+    },
+    {
+      "id": "5",
+      "name": "Coliflor",
+      "image": "https://cdn.pixabay.com/photo/2015/09/25/16/51/cabbage-957778_960_720.jpg",
+      "category": "verduras",
+      "price": 17.00,
+      "offerPrice": 14.00,
+      "isOffer": false,
+      "isPiece": false
+    },
+    {
+      "id": "6",
+      "name": "Espinaca",
+      "image": "https://cdn.pixabay.com/photo/2022/08/27/04/00/vegetables-7413568_960_720.jpg",
+      "category": "verduras",
+      "price": 11.50,
+      "offerPrice": 9.00,
+      "isOffer": false,
+      "isPiece": false
+    },
+    {
+      "id": "7",
+      "name": "Jitomate",
+      "image": "https://cdn.pixabay.com/photo/2015/08/05/20/20/tomato-877019_960_720.jpg",
+      "category": "verduras",
+      "price": 14.00,
+      "offerPrice": 12.00,
+      "isOffer": true,
+      "isPiece": false
+    },
+    {
+      "id": "8",
+      "name": "Guayaba",
+      "image": "https://cdn.pixabay.com/photo/2020/09/13/16/03/guava-5568660_960_720.jpg",
+      "category": "frutas",
+      "price": 14.50,
+      "offerPrice": 12.00,
+      "isOffer": false,
+      "isPiece": false
+    },
+    {
+      "id": "9",
+      "name": "Limón",
+      "image": "https://cdn.pixabay.com/photo/2015/03/10/18/37/sliced-lemon-667554_960_720.jpg",
+      "category": "frutas",
+      "price": 25.00,
+      "offerPrice": 22.00,
+      "isOffer": true,
+      "isPiece": false
+    },
+    {
+      "id": "10",
+      "name": "Mango",
+      "image": "https://cdn.pixabay.com/photo/2012/03/03/23/07/exotic-21549_960_720.jpg",
+      "category": "frutas",
+      "price": 22.00,
+      "offerPrice": 20.00,
+      "isOffer": false,
+      "isPiece": false
+    },
+    {
+      "id": "11",
+      "name": "Manzana",
+      "image": "https://cdn.pixabay.com/photo/2016/11/18/13/47/apple-1834639_960_720.jpg",
+      "category": "frutas",
+      "price": 18.50,
+      "offerPrice": 16.00,
+      "isOffer": false,
+      "isPiece": false
+    },
+    {
+      "id": "12",
+      "name": "Melón",
+      "image": "https://cdn.pixabay.com/photo/2016/03/05/22/30/food-1239301_960_720.jpg",
+      "category": "frutas",
+      "price": 28.00,
+      "offerPrice": 25.00,
+      "isOffer": false,
+      "isPiece": false
+    },
+    {
+      "id": "13",
+      "name": "Papa",
+      "image": "https://cdn.pixabay.com/photo/2014/09/16/18/28/potatoes-448613_960_720.jpg",
+      "category": "verduras",
+      "price": 15.00,
+      "offerPrice": 13.00,
+      "isOffer": true,
+      "isPiece": false
+    },
+    {
+      "id": "14",
+      "name": "Piña",
+      "image": "https://cdn.pixabay.com/photo/2020/04/29/12/47/pineapple-5108775_960_720.jpg",
+      "category": "frutas",
+      "price": 23.00,
+      "offerPrice": 21.00,
+      "isOffer": false,
+      "isPiece": false
+    },
+    {
+      "id": "15",
+      "name": "Sandía",
+      "image": "https://cdn.pixabay.com/photo/2013/01/08/01/25/watermelon-74342_960_720.jpg",
+      "category": "frutas",
+      "price": 37.00,
+      "offerPrice": 34.00,
+      "isOffer": false,
+      "isPiece": false
+    },
+    {
+      "id": "16",
+      "name": "Zanahoria",
+      "image": "https://cdn.pixabay.com/photo/2018/02/25/08/56/carrot-3179988_960_720.jpg",
+      "category": "verduras",
+      "price": 12.00,
+      "offerPrice": 11.00,
+      "isOffer": false,
+      "isPiece": false
+    }
+  ]
+}
